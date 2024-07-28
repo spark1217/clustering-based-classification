@@ -24,4 +24,4 @@ K-means: The elbow method; silouhette score
 Classification: Subset accuracy; accuracy ,precision, recall, f1 for each of fc membership, merchandise, and tickets  
 
 ### Written paper
-The full paper can be found [here]().   
+The full paper can be found [here](). 
